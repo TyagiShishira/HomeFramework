@@ -1,0 +1,16 @@
+PODS:
+  - LoginFramework (1.0.0)
+
+DEPENDENCIES:
+  - LoginFramework (from `/Users/tyagi/Desktop/LoginFramework`)
+
+EXTERNAL SOURCES:
+  LoginFramework:
+    :path: "/Users/tyagi/Desktop/LoginFramework"
+
+SPEC CHECKSUMS:
+  LoginFramework: 7fa957c8ebc9fa80c75af624f13aacaf129e253f
+
+PODFILE CHECKSUM: 07b4aee7eafd65866b1ea44cf14f5c5b6d236a97
+
+COCOAPODS: 1.9.2
