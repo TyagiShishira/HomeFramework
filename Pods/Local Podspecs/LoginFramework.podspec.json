@@ -17,5 +17,10 @@
   },
   "source_files": "LoginFramework/**/*.{swift,h,m}",
   "swift_versions": "5.0",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
   "swift_version": "5.0"
 }
